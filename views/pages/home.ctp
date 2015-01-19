@@ -1,4 +1,4 @@
-<h2>Sweet, "Samplesite" got Baked by CakePHP! Hello !!!!</h2>
+<h2>Sweet, "Samplesite" got Baked by CakePHP! Hello World !!!!</h2>
 
 <?php
 if (Configure::read() > 0):
